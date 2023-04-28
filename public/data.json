@@ -1,0 +1,50 @@
+[
+    {
+      "id": "623dda5a8aa9d641e18f761f",
+      "picture": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLA/7269/1621948227508/front-left-side-47.jpg?impolicy=resize&imwidth=480",
+      "price": 124400000,
+      "name": "Mercedes-Benz"
+    },
+    {
+      "id": "623dda5affcf97b8072d7de0",
+      "picture": "https://global.toyota/pages/models/images/20191018/thumbnail/corolla_w610_01.jpg",
+      "price": 14200000000,
+      "name": "Toyota Prius"
+    },
+    {
+      "id": "623dda5a0241c522a0035407",
+      "picture": "https://imgd.aeplcdn.com/0x0/n/cw/ec/41217/toyota-vellfire-right-front-three-quarter5.jpeg",
+      "price": 112200000,
+      "name": "Toyota Noha"
+    },
+    {
+      "id": "623dda5a0d16da5531a23744",
+      "picture": "https://imgd.aeplcdn.com/0x0/n/cw/ec/139739/land-cruiser-exterior-right-front-three-quarter.jpeg?isig=0",
+      "price": 102100000,
+      "name": "Land Cruiser"
+    },
+    {
+      "id": "623dda5a5dc229268da89ee1",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTbqtzF0sBAkyORcYMvyGgdCsEjuswZznVmw&usqp=CAU",
+      "price": 15220000,
+      "name": "Honda car"
+    },
+    {
+      "id": "623dda5a3e53ad1c8b313928",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2yJU6JnmdpSFcucFzmYHPEgNTcAU_ZILNw&usqp=CAU",
+      "price": 855000,
+      "name": "Honda Civic"
+    },
+    {
+      "id": "623dda5aae7b2e2c61e07460",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFW7OEXmvyhS_AH-qvRaSasDq6h65tbj3BEg&usqp=CAU",
+      "price": 10000000,
+      "name": "BMW"
+    },
+    {
+      "id": "623dda5ad20efcb8df29cab3",
+      "picture": "https://images.summitmedia-digital.com/topgear/images/2023/01/23/bmw-ix3-m-sport-2023-main-1674481797.jpg",
+      "price": 185000000,
+      "name": "BMW SUV"
+    }
+  ]
